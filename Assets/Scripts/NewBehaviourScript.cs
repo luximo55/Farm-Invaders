@@ -7,5 +7,6 @@ public class NewBehaviourScript : MonoBehaviour
     private void Start()
     {
         Debug.Log("Sam nes stavi");
+        Debug.Log("Lijevi");
     }
 }

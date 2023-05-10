@@ -8,5 +8,6 @@ public class NewBehaviourScript : MonoBehaviour
     {
         Debug.Log("Sam nes stavi");
         Debug.Log("Desni");
+        Debug.Log("Lijevi");
     }
 }
